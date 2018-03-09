@@ -1,0 +1,30 @@
+[
+  {
+    "label": "End",
+    "value": 1
+  },
+  {
+    "label": "End-X",
+    "value": 4
+  },
+  {
+    "label": "DX2",
+    "value": 8
+  },
+  {
+    "label": "DX4",
+    "value": 9
+  },
+  {
+    "label": "DX6",
+    "value": 2
+  },
+  {
+    "label": "DT4",
+    "value": 7
+  },
+  {
+    "label": "DT6",
+    "value": 3
+  }
+]

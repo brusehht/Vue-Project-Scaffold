@@ -1,0 +1,2606 @@
+[
+    {
+        "value": 0,
+        "dispchn": "默认ID",
+        "memochn": "默认ID",
+        "dispeng": "Default ID",
+        "memoeng": "Default ID"
+    },
+    {
+        "value": 1,
+        "dispchn": "再生段帧失步秒",
+        "memochn": "再生段帧失步秒",
+        "dispeng": "rsOfs",
+        "memoeng": "Regenerator section out of frame second"
+    },
+    {
+        "value": 2,
+        "dispchn": "再生段误码背景块",
+        "memochn": "再生段误码背景块",
+        "dispeng": "rsBbe",
+        "memoeng": "Regenerator section background block error"
+    },
+    {
+        "value": 3,
+        "dispchn": "再生段误码秒",
+        "memochn": "再生段误码秒",
+        "dispeng": "rsEs",
+        "memoeng": "Regenerator section errored second"
+    },
+    {
+        "value": 4,
+        "dispchn": "再生段严重误码秒",
+        "memochn": "再生段严重误码秒",
+        "dispeng": "rsSes",
+        "memoeng": "Regenerator section severely errored second"
+    },
+    {
+        "value": 5,
+        "dispchn": "再生段连续严重误码秒",
+        "memochn": "再生段连续严重误码秒",
+        "dispeng": "rsCses",
+        "memoeng": "Regenerator section continuously severely errored second"
+    },
+    {
+        "value": 6,
+        "dispchn": "再生段不可用时间",
+        "memochn": "再生段不可用时间",
+        "dispeng": "rsUas",
+        "memoeng": "Regenerator section unavailable seconds"
+    },
+    {
+        "value": 7,
+        "dispchn": "复用段近端背景误码块",
+        "memochn": "复用段近端背景误码块",
+        "dispeng": "msBbe",
+        "memoeng": "Multiplex section near end of background error"
+    },
+    {
+        "value": 8,
+        "dispchn": "复用段近端误码秒",
+        "memochn": "复用段近端误码秒",
+        "dispeng": "msEs",
+        "memoeng": "Multiplex section near end errored second"
+    },
+    {
+        "value": 9,
+        "dispchn": "复用段近端严重误码秒",
+        "memochn": "复用段近端严重误码秒",
+        "dispeng": "msSes",
+        "memoeng": "Multiplex section near end severely errored second"
+    },
+    {
+        "value": 10,
+        "dispchn": "复用段远端背景误码块",
+        "memochn": "复用段远端背景误码块",
+        "dispeng": "msFebbe",
+        "memoeng": "Multiplex section far end block of background error"
+    },
+    {
+        "value": 11,
+        "dispchn": "复用段远端误码秒",
+        "memochn": "复用段远端误码秒",
+        "dispeng": "msFees",
+        "memoeng": "Multiplex section far end errored second"
+    },
+    {
+        "value": 12,
+        "dispchn": "复用段远端严重误码秒",
+        "memochn": "复用段远端严重误码秒",
+        "dispeng": "msFeses",
+        "memoeng": "Multiplex section far end severely errored second"
+    },
+    {
+        "value": 13,
+        "dispchn": "复用段近端连续严重误码秒",
+        "memochn": "复用段近端连续严重误码秒",
+        "dispeng": "msCses",
+        "memoeng": "Multiplex section near end continuously severely errored second"
+    },
+    {
+        "value": 14,
+        "dispchn": "复用段远端连续严重误码秒",
+        "memochn": "复用段远端连续严重误码秒",
+        "dispeng": "msFecses",
+        "memoeng": "Multiplex section far end continuously severely errored second"
+    },
+    {
+        "value": 15,
+        "dispchn": "复用段不可用时间",
+        "memochn": "复用段不可用时间",
+        "dispeng": "msUas",
+        "memoeng": "Multiplex section unavailable time"
+    },
+    {
+        "value": 16,
+        "dispchn": "复用段近端不可用时间",
+        "memochn": "复用段近端不可用时间",
+        "dispeng": "msNeUas",
+        "memoeng": "Multiplex section near end unavailable time"
+    },
+    {
+        "value": 17,
+        "dispchn": "复用段远端不可用时间",
+        "memochn": "复用段远端不可用时间",
+        "dispeng": "msFeUas",
+        "memoeng": "Multiplex section far end unavailable time"
+    },
+    {
+        "value": 18,
+        "dispchn": "高阶近端背景误码块",
+        "memochn": "高阶近端背景误码块",
+        "dispeng": "hpBbe",
+        "memoeng": "High order path near end background block error"
+    },
+    {
+        "value": 19,
+        "dispchn": "高阶近端误码秒",
+        "memochn": "高阶近端误码秒",
+        "dispeng": "hpEs",
+        "memoeng": "High order path near end errored second"
+    },
+    {
+        "value": 20,
+        "dispchn": "高阶近端严重误码秒",
+        "memochn": "高阶近端严重误码秒",
+        "dispeng": "hpSes",
+        "memoeng": "High order path near end severely errored second"
+    },
+    {
+        "value": 21,
+        "dispchn": "高阶远端背景误码块",
+        "memochn": "高阶远端背景误码块",
+        "dispeng": "hpFebbe",
+        "memoeng": "High order path Far end background block error"
+    },
+    {
+        "value": 22,
+        "dispchn": "高阶远端误码秒",
+        "memochn": "高阶远端误码秒",
+        "dispeng": "hpFees",
+        "memoeng": "High order path Far end errored second"
+    },
+    {
+        "value": 23,
+        "dispchn": "高阶远端严重误码秒",
+        "memochn": "高阶远端严重误码秒",
+        "dispeng": "hpFeses",
+        "memoeng": "High order path Far end severely errored second"
+    },
+    {
+        "value": 24,
+        "dispchn": "高阶近端连续严重误码秒",
+        "memochn": "高阶近端连续严重误码秒",
+        "dispeng": "hpCses",
+        "memoeng": "High order path Near end continuously severely errored second"
+    },
+    {
+        "value": 25,
+        "dispchn": "高阶远端连续严重误码秒",
+        "memochn": "高阶远端连续严重误码秒",
+        "dispeng": "hpFecses",
+        "memoeng": "High order path Far end continuously severely errored second"
+    },
+    {
+        "value": 26,
+        "dispchn": "高阶不可用时间",
+        "memochn": "高阶不可用时间",
+        "dispeng": "hpUas",
+        "memoeng": "High order path unavailable seconds"
+    },
+    {
+        "value": 27,
+        "dispchn": "高阶近端不可用时间",
+        "memochn": "高阶近端不可用时间",
+        "dispeng": "hpNeUas",
+        "memoeng": "High order path Near end unavailable seconds"
+    },
+    {
+        "value": 28,
+        "dispchn": "高阶远端不可用时间",
+        "memochn": "高阶远端不可用时间",
+        "dispeng": "hpFeUas",
+        "memoeng": "High order path Far end unavailable seconds"
+    },
+    {
+        "value": 29,
+        "dispchn": "低阶近端背景误码块",
+        "memochn": "低阶近端背景误码块",
+        "dispeng": "lpBbe",
+        "memoeng": "Low order path local block of background error"
+    },
+    {
+        "value": 30,
+        "dispchn": "低阶近端误码秒",
+        "memochn": "低阶近端误码秒",
+        "dispeng": "lpEs",
+        "memoeng": "Low order path local errored second"
+    },
+    {
+        "value": 31,
+        "dispchn": "低阶近端严重误码秒",
+        "memochn": "低阶近端严重误码秒",
+        "dispeng": "lpSes",
+        "memoeng": "Low order path local severely errored second"
+    },
+    {
+        "value": 32,
+        "dispchn": "低阶远端背景误码块",
+        "memochn": "低阶远端背景误码块",
+        "dispeng": "lpFebbe",
+        "memoeng": "Low order path remote block of background error"
+    },
+    {
+        "value": 33,
+        "dispchn": "低阶远端误码秒",
+        "memochn": "低阶远端误码秒",
+        "dispeng": "lpFees",
+        "memoeng": "Low order path remote errored second"
+    },
+    {
+        "value": 34,
+        "dispchn": "低阶远端严重误码秒",
+        "memochn": "低阶远端严重误码秒",
+        "dispeng": "lpFeses",
+        "memoeng": "Low order path remote severely errored second"
+    },
+    {
+        "value": 35,
+        "dispchn": "低阶近端连续严重误码秒",
+        "memochn": "低阶近端连续严重误码秒",
+        "dispeng": "lpCses",
+        "memoeng": "Low order path local continuously severely errored second"
+    },
+    {
+        "value": 36,
+        "dispchn": "低阶远端连续严重误码秒",
+        "memochn": "低阶远端连续严重误码秒",
+        "dispeng": "lpFecses",
+        "memoeng": "Low order path remote continuously severely errored second"
+    },
+    {
+        "value": 37,
+        "dispchn": "低阶不可用时间",
+        "memochn": "低阶不可用时间",
+        "dispeng": "lpUas",
+        "memoeng": "Low order path unavailable time"
+    },
+    {
+        "value": 38,
+        "dispchn": "低阶近端不可用时间",
+        "memochn": "低阶近端不可用时间",
+        "dispeng": "lpNeUas",
+        "memoeng": "Low order path local unavailable time"
+    },
+    {
+        "value": 39,
+        "dispchn": "低阶远端不可用时间",
+        "memochn": "低阶远端不可用时间",
+        "dispeng": "lpFeUas",
+        "memoeng": "Low order path remote unavailable time"
+    },
+    {
+        "value": 40,
+        "dispchn": "管理单元指针正调整",
+        "memochn": "管理单元指针正调整",
+        "dispeng": "auPpj",
+        "memoeng": "Administrative unit positive pointer justification"
+    },
+    {
+        "value": 41,
+        "dispchn": "管理单元指针负调整",
+        "memochn": "管理单元指针负调整",
+        "dispeng": "auNpj",
+        "memoeng": "Administrative unit negative pointer justification"
+    },
+    {
+        "value": 42,
+        "dispchn": "管理单元新指针个数",
+        "memochn": "管理单元新指针个数",
+        "dispeng": "auNdf",
+        "memoeng": "Administrative unit new pointer count"
+    },
+    {
+        "value": 43,
+        "dispchn": "支路单元指针正调整",
+        "memochn": "支路单元指针正调整",
+        "dispeng": "tuPpj",
+        "memoeng": "Tributary unit positive pointer justification"
+    },
+    {
+        "value": 44,
+        "dispchn": "支路单元指针负调整",
+        "memochn": "支路单元指针负调整",
+        "dispeng": "tuNpj",
+        "memoeng": "Tributary unit negative pointer justification"
+    },
+    {
+        "value": 45,
+        "dispchn": "支路单元新指针个数",
+        "memochn": "支路单元新指针个数",
+        "dispeng": "tuNdf",
+        "memoeng": "Tributary unit new pointer count"
+    },
+    {
+        "value": 46,
+        "dispchn": "VC3通道近端背景误码块",
+        "memochn": "VC3通道近端背景误码块",
+        "dispeng": "VC3Bbe",
+        "memoeng": "VC3 path local block of background error"
+    },
+    {
+        "value": 47,
+        "dispchn": "VC3通道近端误码秒",
+        "memochn": "VC3通道近端误码秒",
+        "dispeng": "VC3Es",
+        "memoeng": "VC3 path local errored second"
+    },
+    {
+        "value": 48,
+        "dispchn": "VC3通道近端严重误码秒",
+        "memochn": "VC3通道近端严重误码秒",
+        "dispeng": "VC3Ses",
+        "memoeng": "VC3 path local severely errored second"
+    },
+    {
+        "value": 49,
+        "dispchn": "VC3通道远端背景误码块",
+        "memochn": "VC3通道远端背景误码块",
+        "dispeng": "VC3Febbe",
+        "memoeng": "VC3 path remote block of background error"
+    },
+    {
+        "value": 50,
+        "dispchn": "VC3通道远端误码秒",
+        "memochn": "VC3通道远端误码秒",
+        "dispeng": "VC3Fees",
+        "memoeng": "VC3 path remote errored second"
+    },
+    {
+        "value": 51,
+        "dispchn": "VC3通道远端严重误码秒",
+        "memochn": "VC3通道远端严重误码秒",
+        "dispeng": "VC3Feses",
+        "memoeng": "VC3 path remote severely errored second"
+    },
+    {
+        "value": 52,
+        "dispchn": "VC3通道近端连续严重误码秒",
+        "memochn": "VC3通道近端连续严重误码秒",
+        "dispeng": "VC3Cses",
+        "memoeng": "VC3 path local continuously severely errored second"
+    },
+    {
+        "value": 53,
+        "dispchn": "VC3通道远端连续严重误码秒",
+        "memochn": "VC3通道远端连续严重误码秒",
+        "dispeng": "VC3Fecses",
+        "memoeng": "VC3 path remote continuously severely errored second"
+    },
+    {
+        "value": 54,
+        "dispchn": "VC3通道不可用时间",
+        "memochn": "VC3通道不可用时间",
+        "dispeng": "VC3Uas",
+        "memoeng": "VC3 path unavailable time"
+    },
+    {
+        "value": 55,
+        "dispchn": "VC3通道近端不可用时间",
+        "memochn": "VC3通道近端不可用时间",
+        "dispeng": "VC3NeUas",
+        "memoeng": "VC3 path local unavailable time"
+    },
+    {
+        "value": 56,
+        "dispchn": "VC3通道远端不可用时间",
+        "memochn": "VC3通道远端不可用时间",
+        "dispeng": "VC3FeUas",
+        "memoeng": "VC3 path remote unavailable time"
+    },
+    {
+        "value": 60,
+        "dispchn": "GFP收到的正确包统计计数",
+        "memochn": "GFP收到的正确包统计计数",
+        "dispeng": "gfpInGoodPkts",
+        "memoeng": "Accumulated number of received good GFP packets"
+    },
+    {
+        "value": 61,
+        "dispchn": "GFP收到的超短包统计计数",
+        "memochn": "GFP收到的超短包统计计数",
+        "dispeng": "gfpInShortPkts",
+        "memoeng": "Accumulated number of received short GFP packets"
+    },
+    {
+        "value": 62,
+        "dispchn": "GFP收到的FCS错误包统计计数",
+        "memochn": "GFP收到的FCS错误包统计计数",
+        "dispeng": "gfpInFCSErrors",
+        "memoeng": "Accumulated number of received packets with FCS errors"
+    },
+    {
+        "value": 63,
+        "dispchn": "GFP收到的多比特cHEC错误包统计计数",
+        "memochn": "GFP收到的多比特cHEC错误包统计计数",
+        "dispeng": "gfpInMultibitcHECEr",
+        "memoeng": "Accumulated number of received GFP packets with uncorrectable multi-bit cHEC errors"
+    },
+    {
+        "value": 64,
+        "dispchn": "GFP收到的超长包统计计数",
+        "memochn": "GFP收到的超长包统计计数",
+        "dispeng": "gfpInLongPkts",
+        "memoeng": "Accumulated number of received long GFP packets"
+    },
+    {
+        "value": 65,
+        "dispchn": "GFP收到的单比特cHEC错误包统计计数",
+        "memochn": "GFP收到的单比特cHEC错误包统计计数",
+        "dispeng": "gfpInSinglebitcHECEr",
+        "memoeng": "Accumulated number of received GFP packets with correctable single-bit cHEC errors"
+    },
+    {
+        "value": 66,
+        "dispchn": "GFP收到的正确字节数统计计数",
+        "memochn": "GFP收到的正确字节数统计计数",
+        "dispeng": "gfpInGoodBytes",
+        "memoeng": "Accumulated number of bytes from received good GFP packets"
+    },
+    {
+        "value": 67,
+        "dispchn": "GFP发送的正确包统计计数",
+        "memochn": "GFP发送的正确包统计计数",
+        "dispeng": "gfpOutGoodPkts",
+        "memoeng": "Accumulated number of transfered good GFP packets"
+    },
+    {
+        "value": 68,
+        "dispchn": "GFP发送的正确字节数统计计数",
+        "memochn": "GFP发送的正确字节数统计计数",
+        "dispeng": "gfpOutGoodBytes",
+        "memoeng": "Accumulated number of transfered good GFP bytes"
+    },
+    {
+        "value": 70,
+        "dispchn": "PPP收到的正确包统计计数",
+        "memochn": "PPP收到的正确包统计计数",
+        "dispeng": "pppInGoodPkts",
+        "memoeng": "The number of received frames not marked as errored (good frames)"
+    },
+    {
+        "value": 71,
+        "dispchn": "PPP收到的正确字节数统计计数",
+        "memochn": "PPP收到的正确字节数统计计数",
+        "dispeng": "pppInGoodBytes",
+        "memoeng": "The number of bytes received within the good frames"
+    },
+    {
+        "value": 72,
+        "dispchn": "PPP收到的FCS错误包统计计数",
+        "memochn": "PPP收到的FCS错误包统计计数",
+        "dispeng": "pppInFcsErrPkts",
+        "memoeng": "The number of received frames with an incorrect FCS field"
+    },
+    {
+        "value": 73,
+        "dispchn": "PPP收到的超短包统计计数",
+        "memochn": "PPP收到的超短包统计计数",
+        "dispeng": "pppInSmallerPkts",
+        "memoeng": "The number of frames received with a packet length smaller than a programmable minimum packet length"
+    },
+    {
+        "value": 74,
+        "dispchn": "PPP收到的超长包统计计数",
+        "memochn": "PPP收到的超长包统计计数",
+        "dispeng": "pppInLongerPkts",
+        "memoeng": "The number of frames received with a packet length longer than a programmable maximum packet length"
+    },
+    {
+        "value": 75,
+        "dispchn": "PPP收到的异常结束包统计计数",
+        "memochn": "PPP收到的异常结束包统计计数",
+        "dispeng": "pppInAbortPkts",
+        "memoeng": "The number of aborted packets"
+    },
+    {
+        "value": 76,
+        "dispchn": "PPP发送的正确包统计计数",
+        "memochn": "PPP发送的正确包统计计数",
+        "dispeng": "pppOutGoodPkts",
+        "memoeng": "Counts number of good packets transmitted. Packets which were aborted due to FIFO underflow or an error from the system interface are not included"
+    },
+    {
+        "value": 77,
+        "dispchn": "PPP发送的正确字节数统计计数",
+        "memochn": "PPP发送的正确字节数统计计数",
+        "dispeng": "pppOutGoodBytes",
+        "memoeng": "Counts the number of good bytes transmitted. Bytes from packets which were aborted due to FIFO underflow or an error from the system interface or are smaller than 3bytes are not included. These bytes are from the system interface before flags, stuffing or FCS"
+    },
+    {
+        "value": 80,
+        "dispchn": "当前接收光功率(dBm)",
+        "memochn": "当前接收光功率(dBm)",
+        "dispeng": "OspiIopCur",
+        "memoeng": "current input optical power(dBm)"
+    },
+    {
+        "value": 81,
+        "dispchn": "最小接收光功率(dBm)",
+        "memochn": "最小接收光功率(dBm)",
+        "dispeng": "OspiIopMin",
+        "memoeng": "min input optical power(dBm)"
+    },
+    {
+        "value": 82,
+        "dispchn": "最大接收光功率(dBm)",
+        "memochn": "最大接收光功率(dBm)",
+        "dispeng": "OspiIopMax",
+        "memoeng": "max input optical power(dBm)"
+    },
+    {
+        "value": 83,
+        "dispchn": "当前发送光功率(dBm)",
+        "memochn": "当前发送光功率(dBm)",
+        "dispeng": "OspiOopCur",
+        "memoeng": "current output optical power(dBm)"
+    },
+    {
+        "value": 84,
+        "dispchn": "最小发送光功率(dBm)",
+        "memochn": "最小发送光功率(dBm)",
+        "dispeng": "OspiOopMin",
+        "memoeng": "min output optical power(dBm)"
+    },
+    {
+        "value": 85,
+        "dispchn": "最大发送光功率(dBm)",
+        "memochn": "最大发送光功率(dBm)",
+        "dispeng": "OspiOopMax",
+        "memoeng": "max output optical power(dBm)"
+    },
+    {
+        "value": 86,
+        "dispchn": "当前激光器偏置电流(mA)",
+        "memochn": "当前激光器偏置电流(mA)",
+        "dispeng": "OspiLbCur",
+        "memoeng": "current bias current(mA)"
+    },
+    {
+        "value": 87,
+        "dispchn": "最小激光器偏置电流(mA)",
+        "memochn": "最小激光器偏置电流(mA)",
+        "dispeng": "OspiLbMin",
+        "memoeng": "min bias current(mA)"
+    },
+    {
+        "value": 88,
+        "dispchn": "最大激光器偏置电流(mA)",
+        "memochn": "最大激光器偏置电流(mA)",
+        "dispeng": "OspiLbMax",
+        "memoeng": "max bias current(mA)"
+    },
+    {
+        "value": 89,
+        "dispchn": "当前激光器温度",
+        "memochn": "当前激光器温度",
+        "dispeng": "OspiLtCur",
+        "memoeng": "current bias current(mA)"
+    },
+    {
+        "value": 90,
+        "dispchn": "最小激光器温度",
+        "memochn": "最小激光器温度",
+        "dispeng": "OspiLtMin",
+        "memoeng": "min bias current(mA)"
+    },
+    {
+        "value": 91,
+        "dispchn": "最大激光器温度",
+        "memochn": "最大激光器温度",
+        "dispeng": "OspiLtMax",
+        "memoeng": "max bias current(mA)"
+    },
+    {
+        "value": 100,
+        "dispchn": "接收字节数",
+        "memochn": "接收字节数",
+        "dispeng": "ethrRB",
+        "memoeng": "Received Bytes"
+    },
+    {
+        "value": 101,
+        "dispchn": "接收单播包数",
+        "memochn": "接收单播包数",
+        "dispeng": "ethrRFU",
+        "memoeng": "Received Unicast Packet"
+    },
+    {
+        "value": 102,
+        "dispchn": "接收多播包数",
+        "memochn": "接收多播包数",
+        "dispeng": "ethrRFM",
+        "memoeng": "Received Multicast Packet"
+    },
+    {
+        "value": 103,
+        "dispchn": "接收广播包数",
+        "memochn": "接收广播包数",
+        "dispeng": "ethrRFB",
+        "memoeng": "Received Broadcast Packet"
+    },
+    {
+        "value": 104,
+        "dispchn": "发送字节数",
+        "memochn": "发送字节数",
+        "dispeng": "ethrTB",
+        "memoeng": "Transmitted Bytes"
+    },
+    {
+        "value": 105,
+        "dispchn": "发送单播包数",
+        "memochn": "发送单播包数",
+        "dispeng": "ethrTFU",
+        "memoeng": "Transmitted Unicast Packet"
+    },
+    {
+        "value": 106,
+        "dispchn": "发送多播包数",
+        "memochn": "发送多播包数",
+        "dispeng": "ethrTFM",
+        "memoeng": "Transmitted Multicast Packet"
+    },
+    {
+        "value": 107,
+        "dispchn": "发送广播包数",
+        "memochn": "发送广播包数",
+        "dispeng": "ethrTFB",
+        "memoeng": "Transmitted Broadcast Packet"
+    },
+    {
+        "value": 108,
+        "dispchn": "接收错误包数",
+        "memochn": "接收丢弃数",
+        "dispeng": "ethrRFBad",
+        "memoeng": "Received Bad Packet"
+    },
+    {
+        "value": 109,
+        "dispchn": "发送错误包数",
+        "memochn": "接收错误数",
+        "dispeng": "ethrTFBad",
+        "memoeng": "Transmitted Bad Packet"
+    },
+    {
+        "value": 110,
+        "dispchn": "接收CRC错误和对齐错误数",
+        "memochn": "未知协议",
+        "dispeng": "ethrCRCAlignErr",
+        "memoeng": "receive CRC & alignment errors"
+    },
+    {
+        "value": 111,
+        "dispchn": "接收过短报文数",
+        "memochn": "发送丢弃数",
+        "dispeng": "ethrRFUdSize",
+        "memoeng": "receive undersize errors"
+    },
+    {
+        "value": 112,
+        "dispchn": "接收超长报文数",
+        "memochn": "发送错误数",
+        "dispeng": "ethrRFOverSize",
+        "memoeng": "receive oversize errors"
+    },
+    {
+        "value": 113,
+        "dispchn": "接收碎片报文数",
+        "memochn": "发送错误数",
+        "dispeng": "ethrRFFragment",
+        "memoeng": "receive fragments"
+    },
+    {
+        "value": 114,
+        "dispchn": "接收Jabber报文数",
+        "memochn": "发送错误数",
+        "dispeng": "ethrRFJabbers",
+        "memoeng": "receive jabbers"
+    },
+    {
+        "value": 115,
+        "dispchn": "接收Pause报文数",
+        "memochn": "接收Pause数",
+        "dispeng": "ethrRFPause",
+        "memoeng": "receive pause packages"
+    },
+    {
+        "value": 116,
+        "dispchn": "发送Pause报文数",
+        "memochn": "发送Pause数",
+        "dispeng": "ethrTFPause",
+        "memoeng": "send pause packages"
+    },
+    {
+        "value": 120,
+        "dispchn": "绿色业务报文(字节)",
+        "memochn": "绿色的业务报文/字节个数",
+        "dispeng": "GrnCount",
+        "memoeng": "green service packets/bytes"
+    },
+    {
+        "value": 121,
+        "dispchn": "非绿色业务报文(字节数)",
+        "memochn": "非绿色的业务报文/字节个数",
+        "dispeng": "NotGrnCount",
+        "memoeng": "non-green service packets/bytes"
+    },
+    {
+        "value": 122,
+        "dispchn": "总报文(字节)",
+        "memochn": "总的报文/字节个数",
+        "dispeng": "TotalCount",
+        "memoeng": "total packets/bytes"
+    },
+    {
+        "value": 130,
+        "dispchn": "丢包事件计数",
+        "memochn": "丢包事件计数",
+        "dispeng": "DropEvents",
+        "memoeng": "count of drop events"
+    },
+    {
+        "value": 131,
+        "dispchn": "接收字节数",
+        "memochn": "接收字节数",
+        "dispeng": "Oct",
+        "memoeng": "receive octets"
+    },
+    {
+        "value": 132,
+        "dispchn": "接收报文数",
+        "memochn": "接收报文数",
+        "dispeng": "Pkts",
+        "memoeng": "receive packets"
+    },
+    {
+        "value": 133,
+        "dispchn": "接收广播报文数",
+        "memochn": "接收广播报文数",
+        "dispeng": "BroadPkts",
+        "memoeng": "receive broadcast packets"
+    },
+    {
+        "value": 134,
+        "dispchn": "接收多播报文数",
+        "memochn": "接收多播报文数",
+        "dispeng": "MultiPkts",
+        "memoeng": "receive multicast packets"
+    },
+    {
+        "value": 135,
+        "dispchn": "接收CRC错误和对齐错误数",
+        "memochn": "接收CRC错误和对齐错误数",
+        "dispeng": "CRCAlignErrors",
+        "memoeng": "receive CRC & alignment errors"
+    },
+    {
+        "value": 136,
+        "dispchn": "接收过短报文数",
+        "memochn": "接收过短报文数",
+        "dispeng": "UndersizePkts",
+        "memoeng": "receive undersize errors"
+    },
+    {
+        "value": 137,
+        "dispchn": "接收超长报文数",
+        "memochn": "接收超长报文数",
+        "dispeng": "OversizePkts",
+        "memoeng": "receive oversize errors"
+    },
+    {
+        "value": 138,
+        "dispchn": "接收碎片报文数",
+        "memochn": "接收碎片报文数",
+        "dispeng": "Fragments",
+        "memoeng": "receive fragments"
+    },
+    {
+        "value": 139,
+        "dispchn": "接收Jabber报文数",
+        "memochn": "接收Jabber报文数",
+        "dispeng": "Jabbers",
+        "memoeng": "receive jabbers"
+    },
+    {
+        "value": 140,
+        "dispchn": "接收碰撞数",
+        "memochn": "接收碰撞数",
+        "dispeng": "Collisions",
+        "memoeng": "receive collisions"
+    },
+    {
+        "value": 141,
+        "dispchn": "接收64字节报文数",
+        "memochn": "接收64字节报文数",
+        "dispeng": "Pkts64",
+        "memoeng": "receive 64 bytes packets"
+    },
+    {
+        "value": 142,
+        "dispchn": "接收65－127字节报文数",
+        "memochn": "接收65－127字节报文数",
+        "dispeng": "Pkts65to127",
+        "memoeng": "receive 65-127 bytes packets"
+    },
+    {
+        "value": 143,
+        "dispchn": "接收128－255字节报文数",
+        "memochn": "接收128－255字节报文数",
+        "dispeng": "Pkts128to255",
+        "memoeng": "receive 127-255 bytes packets"
+    },
+    {
+        "value": 144,
+        "dispchn": "接收256－511字节报文数",
+        "memochn": "接收256－511字节报文数",
+        "dispeng": "Pkts256to511",
+        "memoeng": "receive 256-511 bytes packets"
+    },
+    {
+        "value": 145,
+        "dispchn": "接收512－1023字节报文数",
+        "memochn": "接收512－1023字节报文数",
+        "dispeng": "Pkts512to1023",
+        "memoeng": "receive 512-1023 bytes packets"
+    },
+    {
+        "value": 146,
+        "dispchn": "接收1024－1518字节报文数",
+        "memochn": "接收1024－1518字节报文数",
+        "dispeng": "Pkts1024to1518",
+        "memoeng": "receive 1024-1518 bytes packets"
+    },
+    {
+        "value": 147,
+        "dispchn": "接收大于1519字节报文数",
+        "memochn": "接收大于1519字节报文数",
+        "dispeng": "Pkts1519Max",
+        "memoeng": "receive longer than 1519 bytes packets"
+    },
+    {
+        "value": 150,
+        "dispchn": "线码违例计数",
+        "memochn": "线码违例计数",
+        "dispeng": "LCV",
+        "memoeng": "Counter of input signal detected line code violations"
+    },
+    {
+        "value": 151,
+        "dispchn": "线码违例错误秒",
+        "memochn": "线码违例错误秒",
+        "dispeng": "ES_L",
+        "memoeng": "Counter of errored seconds detected line code violations"
+    },
+    {
+        "value": 152,
+        "dispchn": "线码违例严重错误秒",
+        "memochn": "线码违例严重错误秒",
+        "dispeng": "SES_L",
+        "memoeng": "Counter of severely errored seconds detected line code violations"
+    },
+    {
+        "value": 153,
+        "dispchn": "线码违例不可用秒",
+        "memochn": "线码违例不可用秒",
+        "dispeng": "UAS_L",
+        "memoeng": "Counter of Unavailable Seconds detected line code violations"
+    },
+    {
+        "value": 154,
+        "dispchn": "PDH CRC校验错误",
+        "memochn": "PDH CRC校验错误",
+        "dispeng": "CRC",
+        "memoeng": "CRC errors in structured PDH signal"
+    },
+    {
+        "value": 155,
+        "dispchn": "PDH超长零",
+        "memochn": "PDH超长零",
+        "dispeng": "EXZ",
+        "memoeng": "EXcessive Zeros in PDH physical line coding"
+    },
+    {
+        "value": 156,
+        "dispchn": "PDH帧错误",
+        "memochn": "PDH帧错误",
+        "dispeng": "FRM",
+        "memoeng": "FRaMe error in structured PDH signal"
+    },
+    {
+        "value": 157,
+        "dispchn": "PDH远端误码块",
+        "memochn": "PDH远端误码块",
+        "dispeng": "FEBE",
+        "memoeng": "Far End Block Error in structured PDH signal"
+    },
+    {
+        "value": 160,
+        "dispchn": "以太PW接收字节计数",
+        "memochn": "以太PW接收字节计数",
+        "dispeng": "pwEthInOctets",
+        "memoeng": "receive pw bytes"
+    },
+    {
+        "value": 161,
+        "dispchn": "以太PW接收包计数",
+        "memochn": "以太PW接收包计数",
+        "dispeng": "pwEthInPkts",
+        "memoeng": "receive pw packets"
+    },
+    {
+        "value": 162,
+        "dispchn": "以太PW发送字节计数",
+        "memochn": "以太PW发送字节计数",
+        "dispeng": "pwEthOutOctets",
+        "memoeng": "transmitted pw bytes"
+    },
+    {
+        "value": 163,
+        "dispchn": "以太PW发送包计数",
+        "memochn": "以太PW发送包计数",
+        "dispeng": "pwEthOutPkts",
+        "memoeng": "transmitted pw packets"
+    },
+    {
+        "value": 170,
+        "dispchn": "ATM PW因信元收集超时而发送的包计数",
+        "memochn": "ATM PW因信元收集超时而发送的包计数",
+        "dispeng": "pwAtmPktsTimeout",
+        "memoeng": "Number of packets transmitted due to timeout expiration while attempting to collect cells"
+    },
+    {
+        "value": 171,
+        "dispchn": "ATM PW发送信元计数",
+        "memochn": "ATM PW发送信元计数",
+        "dispeng": "pwAtmCellsXmit",
+        "memoeng": "Number of transmitted cells"
+    },
+    {
+        "value": 172,
+        "dispchn": "ATM PW丢弃信元计数",
+        "memochn": "ATM PW丢弃信元计数",
+        "dispeng": "pwAtmCellsDropped",
+        "memoeng": "Number of dropped cells"
+    },
+    {
+        "value": 173,
+        "dispchn": "ATM PW接收信元计数",
+        "memochn": "ATM PW接收信元计数",
+        "dispeng": "pwAtmCellsReceived",
+        "memoeng": "Number of received cells"
+    },
+    {
+        "value": 181,
+        "dispchn": "CEP收到的DBA(动态带宽)包数",
+        "memochn": "CEP收到的DBA(动态带宽)包数",
+        "dispeng": "cepDbaInPktsHC",
+        "memoeng": "Number of DBA packets received"
+    },
+    {
+        "value": 182,
+        "dispchn": "CEP发送的DBA(动态带宽)包数",
+        "memochn": "CEP发送的DBA(动态带宽)包数",
+        "dispeng": "cepDbaOutPktsHC",
+        "memoeng": "Number of DBA packets sent"
+    },
+    {
+        "value": 183,
+        "dispchn": "CEP接收负指针调整次数",
+        "memochn": "CEP接收负指针调整次数",
+        "dispeng": "cepInNP",
+        "memoeng": "Number of negative pointer adjustments"
+    },
+    {
+        "value": 184,
+        "dispchn": "CEP接收正指针调整次数",
+        "memochn": "CEP接收正指针调整次数",
+        "dispeng": "cepInPP",
+        "memoeng": "Number of positive pointer adjustments"
+    },
+    {
+        "value": 185,
+        "dispchn": "CEP接收指针调整秒",
+        "memochn": "CEP接收指针调整秒",
+        "dispeng": "cepInPtrAdjSecs",
+        "memoeng": "Number of seconds in which pointer adjustment"
+    },
+    {
+        "value": 186,
+        "dispchn": "CEP发送负指针调整次数",
+        "memochn": "CEP发送负指针调整次数",
+        "dispeng": "cepOutNP",
+        "memoeng": "Number of negative pointer adjustments"
+    },
+    {
+        "value": 187,
+        "dispchn": "CEP发送正指针调整次数",
+        "memochn": "CEP发送正指针调整次数",
+        "dispeng": "cepOutPP",
+        "memoeng": "Number of positive pointer adjustments"
+    },
+    {
+        "value": 188,
+        "dispchn": "CEP发送指针调整秒",
+        "memochn": "CEP发送指针调整秒",
+        "dispeng": "cepOutPtrAdjSecs",
+        "memoeng": "Number of seconds in which pointer adjustment"
+    },
+    {
+        "value": 189,
+        "dispchn": "CEP绝对指针调整次数",
+        "memochn": "CEP绝对指针调整次数",
+        "dispeng": "cepAbsPtrAdj",
+        "memoeng": "Absolute Pointer adjustments is relative adjustment drifts between inbound and outbound streams. It is calculated as absolute value of :( InPosPtrAdjust - InNegPtrAdjust ) -( OutPosPtrAdjust - OutNegPtrAdjust)"
+    },
+    {
+        "value": 190,
+        "dispchn": "CEP丢包数",
+        "memochn": "CEP丢包数",
+        "dispeng": "cepMissingPkts",
+        "memoeng": "Number of missing packets"
+    },
+    {
+        "value": 191,
+        "dispchn": "CEP重排包数",
+        "memochn": "CEP重排包数",
+        "dispeng": "cepPktsOoseq",
+        "memoeng": "Number of packets detected out of sequence"
+    },
+    {
+        "value": 192,
+        "dispchn": "CEP不能重排包数",
+        "memochn": "CEP不能重排包数",
+        "dispeng": "cepPktsOoRngDrp",
+        "memoeng": "Number of packets detected out of range"
+    },
+    {
+        "value": 193,
+        "dispchn": "CEP jitter buffer下溢次数",
+        "memochn": "CEP jitter buffer下溢次数",
+        "dispeng": "cepJtrBfrUnderruns",
+        "memoeng": "Number of times a packet needed to be played out and the jitter buffer was empty"
+    },
+    {
+        "value": 194,
+        "dispchn": "CEP 坏包数",
+        "memochn": "CEP 坏包数",
+        "dispeng": "cepPktsMlf",
+        "memoeng": "Number of packets detected with unexpected size, or bad headers stack."
+    },
+    {
+        "value": 195,
+        "dispchn": "CEP errors的总和",
+        "memochn": "CEP errors的总和",
+        "dispeng": "cepSumErrors",
+        "memoeng": "A summary of all the packet error types above"
+    },
+    {
+        "value": 196,
+        "dispchn": "CEP 错误秒",
+        "memochn": "CEP 错误秒",
+        "dispeng": "cepES",
+        "memoeng": "The counter associated with the number of Errored Seconds encountered."
+    },
+    {
+        "value": 197,
+        "dispchn": "CEP 严重错误秒",
+        "memochn": "CEP 严重错误秒",
+        "dispeng": "cepSES",
+        "memoeng": "The counter associated with the number of? Severely Errored Seconds encountered."
+    },
+    {
+        "value": 198,
+        "dispchn": "CEP 不可用秒",
+        "memochn": "CEP 不可用秒",
+        "dispeng": "cepUAS",
+        "memoeng": "The counter associated with the number of? Unavailable Seconds encountered"
+    },
+    {
+        "value": 199,
+        "dispchn": "CEP  lops次数",
+        "memochn": "CEP  lops次数",
+        "dispeng": "cepFC",
+        "memoeng": "CEP Failure Counts (FC-CEP). The number of CEP failure events. A failure event begins when the LOPS failure is declared, and ends when the failure is cleared. A failure event that begins in one period and ends in another period is counted only in the period in which it begins"
+    },
+    {
+        "value": 200,
+        "dispchn": "SATOP PW丢包数",
+        "memochn": "SATOP PW丢包数",
+        "dispeng": "pwSAToPMissingPkts",
+        "memoeng": "Number of missing packets (as detected via control word sequence number gaps)"
+    },
+    {
+        "value": 201,
+        "dispchn": "SATOP PW重排包数",
+        "memochn": "SATOP PW重排包数",
+        "dispeng": "pwSAToPPktsReOrder",
+        "memoeng": "Number of packets detected out of sequence (via control word sequence number),  but successfully re-ordered"
+    },
+    {
+        "value": 202,
+        "dispchn": "SATOP PW jitter buffer 下溢次数",
+        "memochn": "SATOP PW jitter buffer 下溢次数",
+        "dispeng": "pwSAToPJtrBfrUnderruns",
+        "memoeng": "Number of times a packet needed to be played out and the jitter buffer was empty"
+    },
+    {
+        "value": 203,
+        "dispchn": "SATOP PW重排失败包数",
+        "memochn": "SATOP PW重排失败包数",
+        "dispeng": "pwSAToPMisOrderDrp",
+        "memoeng": "Number of packets detected out of order(via control word sequence numbers), and could not be re-ordered, or could not fit in the jitter buffer"
+    },
+    {
+        "value": 204,
+        "dispchn": "SATOP PW收到坏包数",
+        "memochn": "SATOP PW收到坏包数",
+        "dispeng": "pwSAToPMalformedPkt",
+        "memoeng": "Number of packets detected with unexpected size, or bad headers' stack"
+    },
+    {
+        "value": 205,
+        "dispchn": "SATOP PW错误秒",
+        "memochn": "SATOP PW错误秒",
+        "dispeng": "pwSAToPES",
+        "memoeng": "The counter associated with the number of Error Seconds encountered. Any malformed packet, seq. error, LOPS and similar are considered as error second"
+    },
+    {
+        "value": 206,
+        "dispchn": "SATOP PW严重错误秒",
+        "memochn": "SATOP PW严重错误秒",
+        "dispeng": "pwSAToPSES",
+        "memoeng": "The counter associated with the number of Severely Error Seconds encountered"
+    },
+    {
+        "value": 207,
+        "dispchn": "SATOP PW不可用秒",
+        "memochn": "SATOP PW不可用秒",
+        "dispeng": "pwSAToPUAS",
+        "memoeng": "The counter associated with the number of Unavailable Seconds encountered. Any consequtive ten seconds of SES are counted as one UAS"
+    },
+    {
+        "value": 208,
+        "dispchn": "SATOP PW远端丢包数",
+        "memochn": "SATOP PW远端丢包数",
+        "dispeng": "pwSAToPRemotePktLoss",
+        "memoeng": "number of remote packet loss counted"
+    },
+    {
+        "value": 209,
+        "dispchn": "SATOP PW远端错误秒",
+        "memochn": "SATOP PW远端错误秒",
+        "dispeng": "pwSAToPRemoteESs",
+        "memoeng": "the number of Remote Error Seconds with remote packet loss encountered"
+    },
+    {
+        "value": 210,
+        "dispchn": "SATOP PW远端严重错误秒",
+        "memochn": "SATOP PW远端严重错误秒",
+        "dispeng": "pwSAToPRemoteSESs",
+        "memoeng": "the number of Remote Severely Errored Seconds with remote packet loss encountered"
+    },
+    {
+        "value": 211,
+        "dispchn": "SATOP PW远端不可用秒",
+        "memochn": "SATOP PW远端不可用秒",
+        "dispeng": "pwSAToPRemoteUASs",
+        "memoeng": "The counter associated with the number of Remote Unavailable Seconds encountered. Any consequtive ten seconds of Remote SES are counted as one UAS"
+    },
+    {
+        "value": 212,
+        "dispchn": "SATOP PW双向不可用秒",
+        "memochn": "SATOP PW双向不可用秒",
+        "dispeng": "pwSAToPBidirectionalUASs",
+        "memoeng": "any second when the bidirectional PW is in "
+    },
+    {
+        "value": 213,
+        "dispchn": "SATOP PW LOPS次数",
+        "memochn": "SATOP PW LOPS次数",
+        "dispeng": "pwSAToPFC",
+        "memoeng": "TDM Failure Counts (FC-TDM). The number of TDM failure events. A failure event begins when the LOPS failure is declared, and ends when the failure is cleared. A failure event that begins in one period and ends in another period is counted only in the period in which it begins"
+    },
+    {
+        "value": 214,
+        "dispchn": "SATOP PW收包数",
+        "memochn": "SATOP PW收包数",
+        "dispeng": "pwSAToPInPkts",
+        "memoeng": "receive pw packets"
+    },
+    {
+        "value": 215,
+        "dispchn": "SATOP PW发包数",
+        "memochn": "SATOP PW发包数",
+        "dispeng": "pwSAToPOutPkts",
+        "memoeng": "transmitted pw packets"
+    },
+    {
+        "value": 220,
+        "dispchn": "LSP接收字节计数",
+        "memochn": "LSP接收字节计数",
+        "dispeng": "lspInOctets",
+        "memoeng": "receive lsp bytes"
+    },
+    {
+        "value": 221,
+        "dispchn": "LSP接收包计数",
+        "memochn": "LSP接收包计数",
+        "dispeng": "lspInPkts",
+        "memoeng": "receive lsp packets"
+    },
+    {
+        "value": 222,
+        "dispchn": "LSP发送字节计数",
+        "memochn": "LSP发送字节计数",
+        "dispeng": "lspOutOctets",
+        "memoeng": "transmitted lsp bytes"
+    },
+    {
+        "value": 223,
+        "dispchn": "LSP发送包计数",
+        "memochn": "LSP发送包计数",
+        "dispeng": "lspOutPkts",
+        "memoeng": "transmitted lsp packets"
+    },
+    {
+        "value": 230,
+        "dispchn": "ATM物理端口接收信元计数",
+        "memochn": "ATM物理端口接收信元计数",
+        "dispeng": "atmportRCells",
+        "memoeng": "Received cells on ATM physical port"
+    },
+    {
+        "value": 231,
+        "dispchn": "ATM物理端口发送信元计数",
+        "memochn": "ATM物理端口发送信元计数",
+        "dispeng": "atmportTCells",
+        "memoeng": "Transmitted cells on ATM physical port"
+    },
+    {
+        "value": 232,
+        "dispchn": "ATM物理端口接收到的头错误信元计数",
+        "memochn": "ATM物理端口接收到的头错误信元计数",
+        "dispeng": "atmPortRxErrCells",
+        "memoeng": "Received Header error cells on ATM Port"
+    },
+    {
+        "value": 233,
+        "dispchn": "ATM VC接收信元计数",
+        "memochn": "ATM VC接收信元计数",
+        "dispeng": "atmVcRxCells",
+        "memoeng": "Received cells on ATM VC"
+    },
+    {
+        "value": 234,
+        "dispchn": "ATM VC发送信元计数",
+        "memochn": "ATM VC发送信元计数",
+        "dispeng": "atmVcTxCells",
+        "memoeng": "Transmitted cells on ATM VC"
+    },
+    {
+        "value": 235,
+        "dispchn": "ATM错/漏插入的信元计数",
+        "memochn": "ATM错/漏插入的信元计数",
+        "dispeng": "atmMisInsetCells",
+        "memoeng": "loss/mis-insertion cells"
+    },
+    {
+        "value": 236,
+        "dispchn": "ATM VC接收到的头错误信元计数",
+        "memochn": "ATM VC接收到的头错误信元计数",
+        "dispeng": "atmVcRxErrCells",
+        "memoeng": "Received Header error cells on ATM VC"
+    },
+    {
+        "value": 224,
+        "dispchn": "lsp限速丢弃字节统计",
+        "memochn": "lsp限速丢弃字节统计",
+        "dispeng": "lspDropOctets",
+        "memoeng": "drop octets when lsp is limited rate"
+    },
+    {
+        "value": 225,
+        "dispchn": "lsp限速丢弃字节统计",
+        "memochn": "lsp限速丢包统计",
+        "dispeng": "lspDropPkts",
+        "memoeng": "drop packets when lsp is limited rate"
+    },
+    {
+        "value": 164,
+        "dispchn": "eth pw丢弃字节统计",
+        "memochn": "eth pw丢弃字节统计",
+        "dispeng": "pwEthDropOctets",
+        "memoeng": "ethernet pw drop octets statistics"
+    },
+    {
+        "value": 165,
+        "dispchn": "eth pw丢包统计",
+        "memochn": "eth pw丢包统计",
+        "dispeng": "pwEthDropPkts",
+        "memoeng": "ethernet pw drop packtets statistics"
+    },
+    {
+        "value": 174,
+        "dispchn": "atm pw丢弃字节统计",
+        "memochn": "atm pw丢弃字节统计",
+        "dispeng": "pwAtmDropOctets",
+        "memoeng": "atm pw drop octets statistics"
+    },
+    {
+        "value": 175,
+        "dispchn": "atm pw丢包统计",
+        "memochn": "atm pw丢包统计",
+        "dispeng": "pwAtmDropPkts",
+        "memoeng": "atm pw drop packets statistics"
+    },
+    {
+        "value": 216,
+        "dispchn": "tdm pw丢弃字节统计",
+        "memochn": "tdm pw丢弃字节统计",
+        "dispeng": "pwSAToPDropOctets",
+        "memoeng": "tdm pw drop octets statistics"
+    },
+    {
+        "value": 217,
+        "dispchn": "tdm pw丢包统计",
+        "memochn": "tdm pw丢包统计",
+        "dispeng": "pwSAToPDropPkts",
+        "memoeng": "tdm pw drop packets statistics"
+    },
+    {
+        "value": 240,
+        "dispchn": "ethac丢弃字节统计",
+        "memochn": "ethac丢弃字节统计",
+        "dispeng": "ethAcDropOctets",
+        "memoeng": "ethernet access circuit drop octets statistics"
+    },
+    {
+        "value": 241,
+        "dispchn": "ethac丢包统计",
+        "memochn": "ethac丢包统计",
+        "dispeng": "ethAcDropPkts",
+        "memoeng": "ethernet access circuit drop packets statistics"
+    },
+    {
+        "value": 117,
+        "dispchn": "发送包数",
+        "memochn": "发送包数",
+        "dispeng": "ethrTF",
+        "memoeng": "Transmitted Packet"
+    },
+    {
+        "value": 300,
+        "dispchn": "接收字节速率",
+        "memochn": "接收字节速率",
+        "dispeng": "ethrRBRate",
+        "memoeng": "Transmitted Packet Rate"
+    },
+    {
+        "value": 301,
+        "dispchn": "接收单播包速率",
+        "memochn": "接收单播包速率",
+        "dispeng": "ethrRFURate",
+        "memoeng": "Received Unicast Packet Rate"
+    },
+    {
+        "value": 302,
+        "dispchn": "接收多播包速率",
+        "memochn": "接收多播包速率",
+        "dispeng": "ethrRFMRate",
+        "memoeng": "Received Mulitcast Packet Rate"
+    },
+    {
+        "value": 303,
+        "dispchn": "接收广播包速率",
+        "memochn": "接收广播包速率",
+        "dispeng": "ethrRFBRate",
+        "memoeng": "Received Broadcast Packet Rate"
+    },
+    {
+        "value": 304,
+        "dispchn": "发送字节速率",
+        "memochn": "发送字节速率",
+        "dispeng": "ethrTBRate",
+        "memoeng": "Transmitted Bytes Rate"
+    },
+    {
+        "value": 305,
+        "dispchn": "发送单播速率",
+        "memochn": "发送单播速率",
+        "dispeng": "ethrTFURate",
+        "memoeng": "Transmitted Unicast Packet Rate"
+    },
+    {
+        "value": 306,
+        "dispchn": "发送多播包速率",
+        "memochn": "发送多播包速率",
+        "dispeng": "ethrTFMRate",
+        "memoeng": "Transmitted Multicast Packet Rate"
+    },
+    {
+        "value": 307,
+        "dispchn": "发送广播包速率",
+        "memochn": "发送广播包速率",
+        "dispeng": "ethrTFBRate",
+        "memoeng": "Transmitted Broadcast Packet Rate"
+    },
+    {
+        "value": 308,
+        "dispchn": "接收错误包速率",
+        "memochn": "接收错误包速率",
+        "dispeng": "ethrRFBadRate",
+        "memoeng": "Received Bad Packet Rate"
+    },
+    {
+        "value": 309,
+        "dispchn": "发送错误包速率",
+        "memochn": "发送错误包速率",
+        "dispeng": "ethrTFBadRate",
+        "memoeng": "Transmitted Bad Packet Rate"
+    },
+    {
+        "value": 310,
+        "dispchn": "接收CRC错误和对齐错误速率",
+        "memochn": "接收CRC错误和对齐错误速率",
+        "dispeng": "ethrCRCAlignErrRate",
+        "memoeng": "Received CRC & alignment errors Rate"
+    },
+    {
+        "value": 311,
+        "dispchn": "接收过短报文速率",
+        "memochn": "接收过短报文速率",
+        "dispeng": "ethrRFUdSizeRate",
+        "memoeng": "Received undersize errors Rate"
+    },
+    {
+        "value": 312,
+        "dispchn": "接收超长报文速率",
+        "memochn": "接收超长报文速率",
+        "dispeng": "ethrRFOverSizeRate",
+        "memoeng": "receive oversize errors Rate"
+    },
+    {
+        "value": 313,
+        "dispchn": "接收碎片报文速率",
+        "memochn": "接收碎片报文速率",
+        "dispeng": "ethrRFFragmentRate",
+        "memoeng": "receive fragments Rate"
+    },
+    {
+        "value": 314,
+        "dispchn": "接收Jabber报文速率",
+        "memochn": "接收Jabber报文速率",
+        "dispeng": "ethrRFJabbersRate",
+        "memoeng": "receive jabbers Rate"
+    },
+    {
+        "value": 315,
+        "dispchn": "接收Pause报文速率",
+        "memochn": "接收Pause报文速率",
+        "dispeng": "ethrRFPauseRate",
+        "memoeng": "receive pause packets Rate"
+    },
+    {
+        "value": 316,
+        "dispchn": "发送Pause报文速率",
+        "memochn": "发送Pause报文速率",
+        "dispeng": "ethrTFPauseRate",
+        "memoeng": "Transmitted Pause packets Rate"
+    },
+    {
+        "value": 320,
+        "dispchn": "以太PW接收字节速率",
+        "memochn": "以太PW接收字节速率",
+        "dispeng": "pwEthInOctetsRate",
+        "memoeng": "receive pw bytes Rate"
+    },
+    {
+        "value": 321,
+        "dispchn": "以太PW接收字节速率",
+        "memochn": "以太PW接收字节速率",
+        "dispeng": "pwEthInPktsRate",
+        "memoeng": "receive pw bytes Rate"
+    },
+    {
+        "value": 322,
+        "dispchn": "以太PW发送字节速率",
+        "memochn": "以太PW发送字节速率",
+        "dispeng": "pwEthOutOctetsRate",
+        "memoeng": "transmitted pw bytes Rate"
+    },
+    {
+        "value": 323,
+        "dispchn": "以太PW发送包速率",
+        "memochn": "以太PW发送包速率",
+        "dispeng": "pwEthOutPktsRate",
+        "memoeng": "transmitted pw packets Rate"
+    },
+    {
+        "value": 330,
+        "dispchn": "ATM物理端口接收信元速率",
+        "memochn": "ATM物理端口接收信元速率",
+        "dispeng": "atmportRCellsRate",
+        "memoeng": "Received cells on ATM physical port Rate"
+    },
+    {
+        "value": 331,
+        "dispchn": "ATM物理端口发送信元速率",
+        "memochn": "ATM物理端口发送信元速率",
+        "dispeng": "atmportTCellsRate",
+        "memoeng": "Transmitted cells on ATM physical port Rate"
+    },
+    {
+        "value": 332,
+        "dispchn": "ATM PW 发送信元速率",
+        "memochn": "ATM PW 发送信元速率",
+        "dispeng": "pwAtmCellsXmitRate",
+        "memoeng": "Transmitted cells on ATM PW Rate"
+    },
+    {
+        "value": 333,
+        "dispchn": "ATM PW接收信元速率",
+        "memochn": "ATM PW接收信元速率",
+        "dispeng": "pwAtmCellsReceivedRate",
+        "memoeng": "Received cells on ATM PW Rate"
+    },
+    {
+        "value": 340,
+        "dispchn": "LSP 接收包速率",
+        "memochn": "LSP 接收包速率",
+        "dispeng": "lspInPktsRate",
+        "memoeng": "Received lsp packets Rate"
+    },
+    {
+        "value": 341,
+        "dispchn": "LSP接收字节速率",
+        "memochn": "LSP接收字节速率",
+        "dispeng": "lspInOctetsRate",
+        "memoeng": "Received lsp bytes Rate"
+    },
+    {
+        "value": 342,
+        "dispchn": "LSP发送包速率",
+        "memochn": "LSP发送包速率",
+        "dispeng": "lspOutPktsRate",
+        "memoeng": "transmitted lsp packets Rate"
+    },
+    {
+        "value": 343,
+        "dispchn": "LSP 发送字节速率",
+        "memochn": "LSP 发送字节速率",
+        "dispeng": "lspOutOctetsRate",
+        "memoeng": "transmitted lsp bytes Rate"
+    },
+    {
+        "value": 350,
+        "dispchn": "MLPPP 接收业务字节数",
+        "memochn": "MLPPP 接收业务字节数",
+        "dispeng": "InAllSvcBytes",
+        "memoeng": "Received All Service Bytes"
+    },
+    {
+        "value": 351,
+        "dispchn": "MLPPP 接收业务包数",
+        "memochn": "MLPPP 接收业务包数",
+        "dispeng": "InAllSvcPackets",
+        "memoeng": "Received all service Packets"
+    },
+    {
+        "value": 352,
+        "dispchn": "MLPPP 接收所有包数",
+        "memochn": "MLPPP 接收所有包数",
+        "dispeng": "InAllPackets",
+        "memoeng": "Received all  Packets"
+    },
+    {
+        "value": 353,
+        "dispchn": "MLPPP 接收的所有错误包",
+        "memochn": "MLPPP 接收的所有错误包",
+        "dispeng": "InAllErrorPackets",
+        "memoeng": "Received all  Error Packets"
+    },
+    {
+        "value": 354,
+        "dispchn": "MLPPP 接收带宽利用统计",
+        "memochn": "MLPPP 接收带宽利用统计",
+        "dispeng": "InBWUtilization",
+        "memoeng": "Rx Bandwith Utilization"
+    },
+    {
+        "value": 355,
+        "dispchn": "MLPPP 发送业务字节数",
+        "memochn": "MLPPP 发送业务字节数",
+        "dispeng": "OutAllSvcBytes",
+        "memoeng": "transmitted all service Bytes"
+    },
+    {
+        "value": 356,
+        "dispchn": "MLPPP 发送业务包数",
+        "memochn": "MLPPP 发送业务包数",
+        "dispeng": "OutAllSvcPackets",
+        "memoeng": "transmitted all service packets"
+    },
+    {
+        "value": 357,
+        "dispchn": "MLPPP 发送所有包数",
+        "memochn": "MLPPP 发送所有包数",
+        "dispeng": "OutAllPackets",
+        "memoeng": "transmitted all packets"
+    },
+    {
+        "value": 358,
+        "dispchn": "MLPPP 发送带宽利用统计",
+        "memochn": "MLPPP 发送带宽利用统计",
+        "dispeng": "OutBWUtilization",
+        "memoeng": "Tx Bandwith Utilization"
+    },
+    {
+        "value": 360,
+        "dispchn": "PPP 发送带宽利用统计",
+        "memochn": "PPP 发送带宽利用统计",
+        "dispeng": "pppOutBWUtilization",
+        "memoeng": "transmitted Bandwidth Utilization"
+    },
+    {
+        "value": 361,
+        "dispchn": "PPP接收带宽利用统计",
+        "memochn": "PPP接收带宽利用统计",
+        "dispeng": "pppInBWUtilization",
+        "memoeng": "Received Bandwidth Utilization"
+    },
+    {
+        "value": 362,
+        "dispchn": "PPP接收的MRU错误包",
+        "memochn": "PPP接收的MRU错误包",
+        "dispeng": "pppInMruErrorPackets",
+        "memoeng": "Received MRU Error Packets"
+    },
+    {
+        "value": 363,
+        "dispchn": "PPP接收的错误协议包",
+        "memochn": "PPP接收的错误协议包",
+        "dispeng": "pppInProErrorPackets",
+        "memoeng": "Received Protocal Error Packets"
+    },
+    {
+        "value": 370,
+        "dispchn": "Cesopsn pw收到包数",
+        "memochn": "Cesopsn pw收到包数",
+        "dispeng": "pwCesopsnInPkts",
+        "memoeng": "Rx Packets"
+    },
+    {
+        "value": 371,
+        "dispchn": "Cesopsn pw收到字节数",
+        "memochn": "Cesopsn pw收到字节数",
+        "dispeng": "pwCesopsnInBytes",
+        "memoeng": "Rx Bytes"
+    },
+    {
+        "value": 372,
+        "dispchn": "Cesopsn pw发送包数",
+        "memochn": "Cesopsn pw发送包数",
+        "dispeng": "pwCesopsnOutPkts",
+        "memoeng": "Tx Packets"
+    },
+    {
+        "value": 373,
+        "dispchn": "Cesopsn pw发送字节数",
+        "memochn": "Cesopsn pw发送字节数",
+        "dispeng": "pwCesopsnOutBytes",
+        "memoeng": "Tx Bytes"
+    },
+    {
+        "value": 374,
+        "dispchn": "Cesopsn pw丢包数",
+        "memochn": "Cesopsn pw丢包数",
+        "dispeng": "pwCesopsnMissingPkts",
+        "memoeng": "Rx Missing Packets"
+    },
+    {
+        "value": 375,
+        "dispchn": "Cesopsn pw重排包数",
+        "memochn": "Cesopsn pw重排包数",
+        "dispeng": "pwCesopsnPktsReOrder",
+        "memoeng": "Rx Reorder Packets"
+    },
+    {
+        "value": 376,
+        "dispchn": "Cesopsn pw丢弃的乱序包数",
+        "memochn": "Cesopsn pw丢弃的乱序包数",
+        "dispeng": "pwCesopsnMisOrderDrp",
+        "memoeng": "Rx Drop Missing Order Packets"
+    },
+    {
+        "value": 377,
+        "dispchn": "Cesopsn pw的Stray包数",
+        "memochn": "Cesopsn pw的Stray包数",
+        "dispeng": "pwCesopsnStrayPkts",
+        "memoeng": "Rx Stray Packets"
+    },
+    {
+        "value": 378,
+        "dispchn": "Cesopsn pw的错包数",
+        "memochn": "Cesopsn pw的错包数",
+        "dispeng": "pwCesopsnMalformedPkts",
+        "memoeng": "Rx Malformed Packets"
+    },
+    {
+        "value": 379,
+        "dispchn": "Cesopsn pw上溢次数",
+        "memochn": "Cesopsn pw上溢次数",
+        "dispeng": "pwCesopsnJtrBfrOverruns",
+        "memoeng": "Jitter Buffer Overruns"
+    },
+    {
+        "value": 380,
+        "dispchn": "Cesopsn pw下溢次数",
+        "memochn": "Cesopsn pw下溢次数",
+        "dispeng": "pwCesopsnJtrBfrUnderruns",
+        "memoeng": "Jitter Buffer Underruns"
+    },
+    {
+        "value": 381,
+        "dispchn": "Cesopsn pw误码秒数",
+        "memochn": "Cesopsn pw误码秒数",
+        "dispeng": "pwCesopsnES",
+        "memoeng": "ES"
+    },
+    {
+        "value": 382,
+        "dispchn": "Cesopsn pw严重误码秒数",
+        "memochn": "Cesopsn pw严重误码秒数",
+        "dispeng": "pwCesopsnSES",
+        "memoeng": "SES"
+    },
+    {
+        "value": 383,
+        "dispchn": "Cesopsn pw不可用秒数",
+        "memochn": "Cesopsn pw不可用秒数",
+        "dispeng": "pwCesopsnUAS",
+        "memoeng": "UAS"
+    },
+    {
+        "value": 384,
+        "dispchn": "Cesopsn pw的FC",
+        "memochn": "Cesopsn pw的FC",
+        "dispeng": "pwCesopsnFC",
+        "memoeng": "Failure Count"
+    },
+    {
+        "value": 250,
+        "dispchn": "链路收到的atm信元计数",
+        "memochn": "链路收到的atm信元计数",
+        "dispeng": "LinkRxCell",
+        "memoeng": "receive atm Cells"
+    },
+    {
+        "value": 251,
+        "dispchn": "链路发送的atm信元计数",
+        "memochn": "链路发送的atm信元计数",
+        "dispeng": "LinkTxCell",
+        "memoeng": "send atm Cells"
+    },
+    {
+        "value": 252,
+        "dispchn": "链路接收的filler信元计数",
+        "memochn": "链路接收的filler信元计数",
+        "dispeng": "RxFillCell",
+        "memoeng": "receive filler cell"
+    },
+    {
+        "value": 253,
+        "dispchn": "链路发送的filler信元计数",
+        "memochn": "链路发送的filler信元计数",
+        "dispeng": "TxFillCell",
+        "memoeng": "send filler cell"
+    },
+    {
+        "value": 254,
+        "dispchn": "链路接收的icp信元计数",
+        "memochn": "链路接收的icp信元计数",
+        "dispeng": "RxICPCell",
+        "memoeng": "receive filler cell"
+    },
+    {
+        "value": 255,
+        "dispchn": "链路发送的icp信元计数",
+        "memochn": "链路发送的icp信元计数",
+        "dispeng": "TxICPCell",
+        "memoeng": "send filler cell"
+    },
+    {
+        "value": 256,
+        "dispchn": "错误、不可用、丢失icp信元计数",
+        "memochn": "错误、不可用、丢失icp信元计数",
+        "dispeng": "IVIMA",
+        "memoeng": "count of errored, invalid or missing ICP cells"
+    },
+    {
+        "value": 257,
+        "dispchn": "OIF异常的计数",
+        "memochn": "OIF异常的计数",
+        "dispeng": "OIFIMA",
+        "memoeng": "Count OIF anomalies"
+    },
+    {
+        "value": 258,
+        "dispchn": "IMA严重误码秒",
+        "memochn": "IMA严重误码秒",
+        "dispeng": "SESIMA",
+        "memoeng": "Count of one second intervals containing  30% of the ICP cells counted as IV-IMAs or one or more link defects"
+    },
+    {
+        "value": 259,
+        "dispchn": "IMA远端严重误码秒",
+        "memochn": "IMA远端严重误码秒",
+        "dispeng": "SESIMAFe",
+        "memoeng": "Count of one second intervals containing one or more RDI-IMA defects, exceptduring UAS-IMA-FE conditions"
+    },
+    {
+        "value": 260,
+        "dispchn": "IMA近端不可用秒",
+        "memochn": "IMA近端不可用秒",
+        "dispeng": "UASIMA",
+        "memoeng": "NE unavailability begins at the onset of 10contiguous SES-IMA including the first 10 seconds to enter the UAS-IMA"
+    },
+    {
+        "value": 261,
+        "dispchn": "IMA远端不可用秒",
+        "memochn": "IMA远端不可用秒",
+        "dispeng": "UASIMAFe",
+        "memoeng": "FE unavailability begins at the onset of 10contiguous SES-IMA-FE including the first 10 seconds to enter the UAS-IMA-FE condition"
+    },
+    {
+        "value": 262,
+        "dispchn": "IMA近端发送状态机不可用秒",
+        "memochn": "IMA近端发送状态机不可用秒",
+        "dispeng": "TxUUSIMA",
+        "memoeng": "Tx Unusable seconds: count of Tx Unusable seconds at the Tx NE LSM"
+    },
+    {
+        "value": 263,
+        "dispchn": "IMA近端收状态机不可用秒",
+        "memochn": "IMA近端收状态机不可用秒",
+        "dispeng": "RxUUSIMA",
+        "memoeng": "Rx Unusable seconds: count of Rx Unusable seconds at the Rx NE LSM"
+    },
+    {
+        "value": 264,
+        "dispchn": "IMA远端发送状态机不可用秒",
+        "memochn": "IMA远端发送状态机不可用秒",
+        "dispeng": "TxUUSIMAFe",
+        "memoeng": "Tx Unusable seconds: count of Tx Unusable seconds at the Tx FE LSM"
+    },
+    {
+        "value": 265,
+        "dispchn": "IMA远端收状态机不可用秒",
+        "memochn": "IMA远端收状态机不可用秒",
+        "dispeng": "RxUUSIMAFe",
+        "memoeng": "Rx Unusable seconds: count of Rx Unusable seconds at the Rx FE LSM"
+    },
+    {
+        "value": 266,
+        "dispchn": "近端发送错误状态计数",
+        "memochn": "近端发送错误状态计数",
+        "dispeng": "TxFC",
+        "memoeng": "count of NE Tx link failure alarm condition entrances"
+    },
+    {
+        "value": 267,
+        "dispchn": "近端接收错误状态计数",
+        "memochn": "近端接收错误状态计数",
+        "dispeng": "RxFC",
+        "memoeng": "count of NE Rx link failure alarm condition entrances"
+    },
+    {
+        "value": 268,
+        "dispchn": "远端发送错误状态计数",
+        "memochn": "远端发送错误状态计数",
+        "dispeng": "TxFCFe",
+        "memoeng": "count of FE Tx link failure alarm condition entrances"
+    },
+    {
+        "value": 269,
+        "dispchn": "远端接收错误状态计数",
+        "memochn": "远端接收错误状态计数",
+        "dispeng": "RxFCFe",
+        "memoeng": "count of FE Rx link failure alarm condition entrances"
+    },
+    {
+        "value": 270,
+        "dispchn": "近端发送stuff事件计数",
+        "memochn": "近端发送stuff事件计数",
+        "dispeng": "TxStuffIMA",
+        "memoeng": "Count of stuff events inserted in the transmit direction"
+    },
+    {
+        "value": 271,
+        "dispchn": "近端接收stuff事件计数",
+        "memochn": "近端接收stuff事件计数",
+        "dispeng": "RxStuffIMA",
+        "memoeng": "Count of stuff events inserted in the receive direction"
+    },
+    {
+        "value": 272,
+        "dispchn": "组接收的atm信元计数",
+        "memochn": "组接收的atm信元计数",
+        "dispeng": "GroupRxCell",
+        "memoeng": "receive atm Cells"
+    },
+    {
+        "value": 273,
+        "dispchn": "组发送的atm信元计数",
+        "memochn": "组发送的atm信元计数",
+        "dispeng": "GroupTxCell",
+        "memoeng": "send atm Cells"
+    },
+    {
+        "value": 274,
+        "dispchn": "组不可用秒",
+        "memochn": "组不可用秒",
+        "dispeng": "GrUasIMA",
+        "memoeng": "Count of one second intervals where the GTSM is Down"
+    },
+    {
+        "value": 275,
+        "dispchn": "近端组错误状态计数",
+        "memochn": "近端组错误状态计数",
+        "dispeng": "GrFc",
+        "memoeng": "count of NE group failure condition entrances"
+    },
+    {
+        "value": 276,
+        "dispchn": "远端组错误状态计数",
+        "memochn": "远端组错误状态计数",
+        "dispeng": "GrFcFe",
+        "memoeng": "count of FE group failure condition entrances"
+    },
+    {
+        "value": 277,
+        "dispchn": "发送过长包计数",
+        "memochn": "发送过长包计数",
+        "dispeng": "ethrTFOverSize",
+        "memoeng": "count of ethrTFOverSize"
+    },
+    {
+        "value": 278,
+        "dispchn": "接收包数",
+        "memochn": "接收包数",
+        "dispeng": "ethrRF",
+        "memoeng": "count of ethrRF"
+    },
+    {
+        "value": 390,
+        "dispchn": "队列0接收的字节数",
+        "memochn": "队列0接收的字节数",
+        "dispeng": "Queue0Octs",
+        "memoeng": "queue 0 transmitted bytes"
+    },
+    {
+        "value": 391,
+        "dispchn": "队列1接收的字节数",
+        "memochn": "队列1接收的字节数",
+        "dispeng": "Queue1Octs",
+        "memoeng": "queue 1 transmitted bytes"
+    },
+    {
+        "value": 392,
+        "dispchn": "队列2接收的字节数",
+        "memochn": "队列2接收的字节数",
+        "dispeng": "Queue2Octs",
+        "memoeng": "queue 2 transmitted bytes"
+    },
+    {
+        "value": 393,
+        "dispchn": "队列3接收的字节数",
+        "memochn": "队列3接收的字节数",
+        "dispeng": "Queue3Octs",
+        "memoeng": "queue 3 transmitted bytes"
+    },
+    {
+        "value": 394,
+        "dispchn": "队列4接收的字节数",
+        "memochn": "队列4接收的字节数",
+        "dispeng": "Queue4Octs",
+        "memoeng": "queue 4 transmitted bytes"
+    },
+    {
+        "value": 395,
+        "dispchn": "队列5接收的字节数",
+        "memochn": "队列5接收的字节数",
+        "dispeng": "Queue5Octs",
+        "memoeng": "queue 5 transmitted bytes"
+    },
+    {
+        "value": 396,
+        "dispchn": "队列6接收的字节数",
+        "memochn": "队列6接收的字节数",
+        "dispeng": "Queue6Octs",
+        "memoeng": "queue 6 transmitted bytes"
+    },
+    {
+        "value": 397,
+        "dispchn": "队列7接收的字节数",
+        "memochn": "队列7接收的字节数",
+        "dispeng": "Queue7Octs",
+        "memoeng": "queue 7 transmitted bytes"
+    },
+    {
+        "value": 398,
+        "dispchn": "队列0接收的包数",
+        "memochn": "队列0接收的包数",
+        "dispeng": "Queue0Pkts",
+        "memoeng": "queue 0 transmitted Pkts"
+    },
+    {
+        "value": 399,
+        "dispchn": "队列1接收的包数",
+        "memochn": "队列1接收的包数",
+        "dispeng": "Queue1Pkts",
+        "memoeng": "queue 1 transmitted Pkts"
+    },
+    {
+        "value": 400,
+        "dispchn": "队列2接收的包数",
+        "memochn": "队列2接收的包数",
+        "dispeng": "Queue2Pkts",
+        "memoeng": "queue 2 transmitted Pkts"
+    },
+    {
+        "value": 401,
+        "dispchn": "队列3接收的包数",
+        "memochn": "队列3接收的包数",
+        "dispeng": "Queue3Pkts",
+        "memoeng": "queue 3 transmitted Pkts"
+    },
+    {
+        "value": 402,
+        "dispchn": "队列4接收的包数",
+        "memochn": "队列4接收的包数",
+        "dispeng": "Queue4Pkts",
+        "memoeng": "queue 4 transmitted Pkts"
+    },
+    {
+        "value": 403,
+        "dispchn": "队列5接收的包数",
+        "memochn": "队列5接收的包数",
+        "dispeng": "Queue5Pkts",
+        "memoeng": "queue 5 transmitted Pkts"
+    },
+    {
+        "value": 404,
+        "dispchn": "队列6接收的包数",
+        "memochn": "队列6接收的包数",
+        "dispeng": "Queue6Pkts",
+        "memoeng": "queue 6 transmitted Pkts"
+    },
+    {
+        "value": 405,
+        "dispchn": "队列7接收的包数",
+        "memochn": "队列7接收的包数",
+        "dispeng": "Queue7Pkts",
+        "memoeng": "queue 7 transmitted Pkts"
+    },
+    {
+        "value": 406,
+        "dispchn": "队列0丢弃字节数",
+        "memochn": "队列0丢弃字节数",
+        "dispeng": "Queue0DropOcts",
+        "memoeng": "queue 0 drop bytes"
+    },
+    {
+        "value": 407,
+        "dispchn": "队列1丢弃字节数",
+        "memochn": "队列1丢弃字节数",
+        "dispeng": "Queue1DropOcts",
+        "memoeng": "queue 1 drop bytes"
+    },
+    {
+        "value": 408,
+        "dispchn": "队列2丢弃字节数",
+        "memochn": "队列2丢弃字节数",
+        "dispeng": "Queue2DropOcts",
+        "memoeng": "queue 2 drop bytes"
+    },
+    {
+        "value": 409,
+        "dispchn": "队列3丢弃字节数",
+        "memochn": "队列3丢弃字节数",
+        "dispeng": "Queue3DropOcts",
+        "memoeng": "queue 3 drop bytes"
+    },
+    {
+        "value": 410,
+        "dispchn": "队列4丢弃字节数",
+        "memochn": "队列4丢弃字节数",
+        "dispeng": "Queue4DropOcts",
+        "memoeng": "queue 4 drop bytes"
+    },
+    {
+        "value": 411,
+        "dispchn": "队列5丢弃字节数",
+        "memochn": "队列5丢弃字节数",
+        "dispeng": "Queue5DropOcts",
+        "memoeng": "queue 5 drop bytes"
+    },
+    {
+        "value": 412,
+        "dispchn": "队列6丢弃字节数",
+        "memochn": "队列6丢弃字节数",
+        "dispeng": "Queue6DropOcts",
+        "memoeng": "queue 6 drop bytes"
+    },
+    {
+        "value": 413,
+        "dispchn": "队列7丢弃字节数",
+        "memochn": "队列7丢弃字节数",
+        "dispeng": "Queue7DropOcts",
+        "memoeng": "queue 7 drop bytes"
+    },
+    {
+        "value": 414,
+        "dispchn": "队列0丢弃包数",
+        "memochn": "队列0丢弃包数",
+        "dispeng": "Queue0DropPkts",
+        "memoeng": "queue 0 drop Pkts"
+    },
+    {
+        "value": 415,
+        "dispchn": "队列1丢弃包数",
+        "memochn": "队列1丢弃包数",
+        "dispeng": "Queue1DropPkts",
+        "memoeng": "queue 1 drop Pkts"
+    },
+    {
+        "value": 416,
+        "dispchn": "队列2丢弃包数",
+        "memochn": "队列2丢弃包数",
+        "dispeng": "Queue2DropPkts",
+        "memoeng": "queue 2 drop Pkts"
+    },
+    {
+        "value": 417,
+        "dispchn": "队列3丢弃包数",
+        "memochn": "队列3丢弃包数",
+        "dispeng": "Queue3DropPkts",
+        "memoeng": "queue 3 drop Pkts"
+    },
+    {
+        "value": 418,
+        "dispchn": "队列4丢弃包数",
+        "memochn": "队列4丢弃包数",
+        "dispeng": "Queue4DropPkts",
+        "memoeng": "queue 4 drop Pkts"
+    },
+    {
+        "value": 419,
+        "dispchn": "队列5丢弃包数",
+        "memochn": "队列5丢弃包数",
+        "dispeng": "Queue5DropPkts",
+        "memoeng": "queue 5 drop Pkts"
+    },
+    {
+        "value": 420,
+        "dispchn": "队列6丢弃包数",
+        "memochn": "队列6丢弃包数",
+        "dispeng": "Queue6DropPkts",
+        "memoeng": "queue 6 drop Pkts"
+    },
+    {
+        "value": 421,
+        "dispchn": "队列7丢弃包数",
+        "memochn": "队列7丢弃包数",
+        "dispeng": "Queue7DropPkts",
+        "memoeng": "queue 7 drop Pkts"
+    },
+    {
+        "value": 118,
+        "dispchn": "MTU错误报文数",
+        "memochn": "MTU错误报文数",
+        "dispeng": "ethrRFMtuErr",
+        "memoeng": "Received MTU Check Error Frames"
+    },
+    {
+        "value": 422,
+        "dispchn": "当前内存使用率",
+        "memochn": "当前内存使用率",
+        "dispeng": "MemUsageCur",
+        "memoeng": "Current memory usage ratio"
+    },
+    {
+        "value": 423,
+        "dispchn": "最大内存使用率",
+        "memochn": "最大内存使用率",
+        "dispeng": "MemUsageMax",
+        "memoeng": "Max memory usage ratio"
+    },
+    {
+        "value": 424,
+        "dispchn": "最小内存使用率",
+        "memochn": "最小内存使用率",
+        "dispeng": "MemUsageMin",
+        "memoeng": "Min memory usage ratio"
+    },
+    {
+        "value": 148,
+        "dispchn": "带宽利用率",
+        "memochn": "带宽利用率",
+        "dispeng": "Utilization",
+        "memoeng": "band width utilization"
+    },
+    {
+        "value": 425,
+        "dispchn": "收包带宽利用率",
+        "memochn": "收包带宽利用率",
+        "dispeng": "ethrRFUtilization",
+        "memoeng": "Received Bandwidth Utilization"
+    },
+    {
+        "value": 426,
+        "dispchn": "发包带宽利用率",
+        "memochn": "发包带宽利用率",
+        "dispeng": "ethrTFUtilization",
+        "memoeng": "Transmitted Bandwidth Utilization"
+    },
+    {
+        "value": 427,
+        "dispchn": "接收大于1519字节报文数",
+        "memochn": "接收大于1519字节报文数",
+        "dispeng": "Pkts1519toMax",
+        "memoeng": "receive longer than 1519 bytes packets"
+    },
+    {
+        "value": 226,
+        "dispchn": "lsp接收到错误FFD包",
+        "memochn": "lsp接收到错误FFD包",
+        "dispeng": "lspRxErrFfd",
+        "memoeng": "Received Error FFD Packets"
+    },
+    {
+        "value": 500,
+        "dispchn": "当前Lane0接收光功率(dBm)",
+        "memochn": "当前Lane0接收光功率(dBm)",
+        "dispeng": "OspiLane0IopCur",
+        "memoeng": "current lane0 input optical power(dBm)"
+    },
+    {
+        "value": 501,
+        "dispchn": "最小Lane0接收光功率(dBm)",
+        "memochn": "最小Lane0接收光功率(dBm)",
+        "dispeng": "OspiLane0IopMin",
+        "memoeng": "min lane0 input optical power(dBm)"
+    },
+    {
+        "value": 502,
+        "dispchn": "最大Lane0接收光功率(dBm)",
+        "memochn": "最大Lane0接收光功率(dBm)",
+        "dispeng": "OspiLane0IopMax",
+        "memoeng": "max lane0 input optical power(dBm)"
+    },
+    {
+        "value": 503,
+        "dispchn": "当前Lane0发送光功率(dBm)",
+        "memochn": "当前Lane0发送光功率(dBm)",
+        "dispeng": "OspiLane0OopCur",
+        "memoeng": "current lane0 output optical power(dBm)"
+    },
+    {
+        "value": 504,
+        "dispchn": "最小Lane0发送光功率(dBm)",
+        "memochn": "最小Lane0发送光功率(dBm)",
+        "dispeng": "OspiLane0OopMin",
+        "memoeng": "min lane0 output optical power(dBm)"
+    },
+    {
+        "value": 505,
+        "dispchn": "最大Lane0发送光功率(dBm)",
+        "memochn": "最大Lane0发送光功率(dBm)",
+        "dispeng": "OspiLane0OopMax",
+        "memoeng": "max lane0 output optical power(dBm)"
+    },
+    {
+        "value": 506,
+        "dispchn": "当前Lane0Lane0激光器偏置电流(mA)",
+        "memochn": "当前Lane0Lane0激光器偏置电流(mA)",
+        "dispeng": "OspiLane0LbCur",
+        "memoeng": "current lane0 bias current(mA)"
+    },
+    {
+        "value": 507,
+        "dispchn": "最小Lane0激光器偏置电流(mA)",
+        "memochn": "最小Lane0激光器偏置电流(mA)",
+        "dispeng": "OspiLane0LbMin",
+        "memoeng": "min lane0 bias current(mA)"
+    },
+    {
+        "value": 508,
+        "dispchn": "最大Lane0激光器偏置电流(mA)",
+        "memochn": "最大Lane0激光器偏置电流(mA)",
+        "dispeng": "OspiLane0LbMax",
+        "memoeng": "max lane0 bias current(mA)"
+    },
+    {
+        "value": 509,
+        "dispchn": "当前Lane0激光器温度",
+        "memochn": "当前Lane0激光器温度",
+        "dispeng": "OspiLane0LtCur",
+        "memoeng": "current temperature(℃)"
+    },
+    {
+        "value": 510,
+        "dispchn": "最小Lane0激光器温度",
+        "memochn": "最小Lane0激光器温度",
+        "dispeng": "OspiLane0LtMin",
+        "memoeng": "min lane0 temperature(℃)"
+    },
+    {
+        "value": 511,
+        "dispchn": "最大Lane0激光器温度",
+        "memochn": "最大Lane0激光器温度",
+        "dispeng": "OspiLane0LtMax",
+        "memoeng": "max lane0 temperature(℃)"
+    },
+    {
+        "value": 512,
+        "dispchn": "当前Lane1接收光功率(dBm)",
+        "memochn": "当前Lane1接收光功率(dBm)",
+        "dispeng": "OspiLane1IopCur",
+        "memoeng": "current Lane1 input optical power(dBm)"
+    },
+    {
+        "value": 513,
+        "dispchn": "最小Lane1接收光功率(dBm)",
+        "memochn": "最小Lane1接收光功率(dBm)",
+        "dispeng": "OspiLane1IopMin",
+        "memoeng": "min Lane1 input optical power(dBm)"
+    },
+    {
+        "value": 514,
+        "dispchn": "最大Lane1接收光功率(dBm)",
+        "memochn": "最大Lane1接收光功率(dBm)",
+        "dispeng": "OspiLane1IopMax",
+        "memoeng": "max Lane1 input optical power(dBm)"
+    },
+    {
+        "value": 515,
+        "dispchn": "当前Lane1发送光功率(dBm)",
+        "memochn": "当前Lane1发送光功率(dBm)",
+        "dispeng": "OspiLane1OopCur",
+        "memoeng": "current Lane1 output optical power(dBm)"
+    },
+    {
+        "value": 516,
+        "dispchn": "最小Lane1发送光功率(dBm)",
+        "memochn": "最小Lane1发送光功率(dBm)",
+        "dispeng": "OspiLane1OopMin",
+        "memoeng": "min Lane1 output optical power(dBm)"
+    },
+    {
+        "value": 517,
+        "dispchn": "最大Lane1发送光功率(dBm)",
+        "memochn": "最大Lane1发送光功率(dBm)",
+        "dispeng": "OspiLane1OopMax",
+        "memoeng": "max Lane1 output optical power(dBm)"
+    },
+    {
+        "value": 518,
+        "dispchn": "当前Lane1Lane1激光器偏置电流(mA)",
+        "memochn": "当前Lane1Lane1激光器偏置电流(mA)",
+        "dispeng": "OspiLane1LbCur",
+        "memoeng": "current Lane1 bias current(mA)"
+    },
+    {
+        "value": 519,
+        "dispchn": "最小Lane1激光器偏置电流(mA)",
+        "memochn": "最小Lane1激光器偏置电流(mA)",
+        "dispeng": "OspiLane1LbMin",
+        "memoeng": "min Lane1 bias current(mA)"
+    },
+    {
+        "value": 520,
+        "dispchn": "最大Lane1激光器偏置电流(mA)",
+        "memochn": "最大Lane1激光器偏置电流(mA)",
+        "dispeng": "OspiLane1LbMax",
+        "memoeng": "max Lane1 bias current(mA)"
+    },
+    {
+        "value": 521,
+        "dispchn": "当前Lane1激光器温度",
+        "memochn": "当前Lane1激光器温度",
+        "dispeng": "OspiLane1LtCur",
+        "memoeng": "current Lane1 temperature(℃)"
+    },
+    {
+        "value": 522,
+        "dispchn": "最小Lane1激光器温度",
+        "memochn": "最小Lane1激光器温度",
+        "dispeng": "OspiLane1LtMin",
+        "memoeng": "min Lane1 temperature(℃)"
+    },
+    {
+        "value": 523,
+        "dispchn": "最大Lane1激光器温度",
+        "memochn": "最大Lane1激光器温度",
+        "dispeng": "OspiLane1LtMax",
+        "memoeng": "max Lane1 temperature(℃)"
+    },
+    {
+        "value": 524,
+        "dispchn": "当前Lane2接收光功率(dBm)",
+        "memochn": "当前Lane2接收光功率(dBm)",
+        "dispeng": "OspiLane2IopCur",
+        "memoeng": "current Lane2 input optical power(dBm)"
+    },
+    {
+        "value": 525,
+        "dispchn": "最小Lane2接收光功率(dBm)",
+        "memochn": "最小Lane2接收光功率(dBm)",
+        "dispeng": "OspiLane2IopMin",
+        "memoeng": "min Lane2 input optical power(dBm)"
+    },
+    {
+        "value": 526,
+        "dispchn": "最大Lane2接收光功率(dBm)",
+        "memochn": "最大Lane2接收光功率(dBm)",
+        "dispeng": "OspiLane2IopMax",
+        "memoeng": "max Lane2 input optical power(dBm)"
+    },
+    {
+        "value": 527,
+        "dispchn": "当前Lane2发送光功率(dBm)",
+        "memochn": "当前Lane2发送光功率(dBm)",
+        "dispeng": "OspiLane2OopCur",
+        "memoeng": "current Lane2 output optical power(dBm)"
+    },
+    {
+        "value": 528,
+        "dispchn": "最小Lane2发送光功率(dBm)",
+        "memochn": "最小Lane2发送光功率(dBm)",
+        "dispeng": "OspiLane2OopMin",
+        "memoeng": "min Lane2 output optical power(dBm)"
+    },
+    {
+        "value": 529,
+        "dispchn": "最大Lane2发送光功率(dBm)",
+        "memochn": "最大Lane2发送光功率(dBm)",
+        "dispeng": "OspiLane2OopMax",
+        "memoeng": "max Lane2 output optical power(dBm)"
+    },
+    {
+        "value": 530,
+        "dispchn": "当前Lane2Lane2激光器偏置电流(mA)",
+        "memochn": "当前Lane2Lane2激光器偏置电流(mA)",
+        "dispeng": "OspiLane2LbCur",
+        "memoeng": "current Lane2 bias current(mA)"
+    },
+    {
+        "value": 531,
+        "dispchn": "最小Lane2激光器偏置电流(mA)",
+        "memochn": "最小Lane2激光器偏置电流(mA)",
+        "dispeng": "OspiLane2LbMin",
+        "memoeng": "min Lane2 bias current(mA)"
+    },
+    {
+        "value": 532,
+        "dispchn": "最大Lane2激光器偏置电流(mA)",
+        "memochn": "最大Lane2激光器偏置电流(mA)",
+        "dispeng": "OspiLane2LbMax",
+        "memoeng": "max Lane2 bias current(mA)"
+    },
+    {
+        "value": 533,
+        "dispchn": "当前Lane2激光器温度",
+        "memochn": "当前Lane2激光器温度",
+        "dispeng": "OspiLane2LtCur",
+        "memoeng": "current Lane2 temperature(℃)"
+    },
+    {
+        "value": 534,
+        "dispchn": "最小Lane2激光器温度",
+        "memochn": "最小Lane2激光器温度",
+        "dispeng": "OspiLane2LtMin",
+        "memoeng": "min Lane2 temperature(℃)"
+    },
+    {
+        "value": 535,
+        "dispchn": "最大Lane2激光器温度",
+        "memochn": "最大Lane2激光器温度",
+        "dispeng": "OspiLane2LtMax",
+        "memoeng": "max Lane2 temperature(℃)"
+    },
+    {
+        "value": 536,
+        "dispchn": "当前Lane3接收光功率(dBm)",
+        "memochn": "当前Lane3接收光功率(dBm)",
+        "dispeng": "OspiLane3IopCur",
+        "memoeng": "current Lane3 input optical power(dBm)"
+    },
+    {
+        "value": 537,
+        "dispchn": "最小Lane3接收光功率(dBm)",
+        "memochn": "最小Lane3接收光功率(dBm)",
+        "dispeng": "OspiLane3IopMin",
+        "memoeng": "min Lane3 input optical power(dBm)"
+    },
+    {
+        "value": 538,
+        "dispchn": "最大Lane3接收光功率(dBm)",
+        "memochn": "最大Lane3接收光功率(dBm)",
+        "dispeng": "OspiLane3IopMax",
+        "memoeng": "max Lane3 input optical power(dBm)"
+    },
+    {
+        "value": 539,
+        "dispchn": "当前Lane3发送光功率(dBm)",
+        "memochn": "当前Lane3发送光功率(dBm)",
+        "dispeng": "OspiLane3OopCur",
+        "memoeng": "current Lane3 output optical power(dBm)"
+    },
+    {
+        "value": 540,
+        "dispchn": "最小Lane3发送光功率(dBm)",
+        "memochn": "最小Lane3发送光功率(dBm)",
+        "dispeng": "OspiLane3OopMin",
+        "memoeng": "min Lane3 output optical power(dBm)"
+    },
+    {
+        "value": 541,
+        "dispchn": "最大Lane3发送光功率(dBm)",
+        "memochn": "最大Lane3发送光功率(dBm)",
+        "dispeng": "OspiLane3OopMax",
+        "memoeng": "max Lane3 output optical power(dBm)"
+    },
+    {
+        "value": 542,
+        "dispchn": "当前Lane3Lane3激光器偏置电流(mA)",
+        "memochn": "当前Lane3Lane3激光器偏置电流(mA)",
+        "dispeng": "OspiLane3LbCur",
+        "memoeng": "current Lane3 bias current(mA)"
+    },
+    {
+        "value": 543,
+        "dispchn": "最小Lane3激光器偏置电流(mA)",
+        "memochn": "最小Lane3激光器偏置电流(mA)",
+        "dispeng": "OspiLane3LbMin",
+        "memoeng": "min Lane3 bias current(mA)"
+    },
+    {
+        "value": 544,
+        "dispchn": "最大Lane3激光器偏置电流(mA)",
+        "memochn": "最大Lane3激光器偏置电流(mA)",
+        "dispeng": "OspiLane3LbMax",
+        "memoeng": "max Lane3 bias current(mA)"
+    },
+    {
+        "value": 545,
+        "dispchn": "当前Lane3激光器温度",
+        "memochn": "当前Lane3激光器温度",
+        "dispeng": "OspiLane3LtCur",
+        "memoeng": "current Lane3 temperature(℃)"
+    },
+    {
+        "value": 546,
+        "dispchn": "最小Lane3激光器温度",
+        "memochn": "最小Lane3激光器温度",
+        "dispeng": "OspiLane3LtMin",
+        "memoeng": "min Lane3 temperature(℃)"
+    },
+    {
+        "value": 547,
+        "dispchn": "最大Lane3激光器温度",
+        "memochn": "最大Lane3激光器温度",
+        "dispeng": "OspiLane3LtMax",
+        "memoeng": "max Lane3 temperature(℃)"
+    }
+]
